@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+- <snippet filetemplate="false" extension="">
+  <name>Header Comment</name> 
+  <help>Gives page info</help> 
+- <starttext>
+- <![CDATA[ 
+<!---
+	Filename: 
+	Created by: 
+	Date:  $${DAYOFMONTH}.$${MONTHNUMBER}.$${YEAR2DIGIT}
+     
+	
+Updates:
+------------------------------------------------------------------------------------------
+
+  ]]> 
+  </starttext>
+- <endtext>
+- <![CDATA[  -->
+  ]]> 
+  </endtext>
+  </snippet>
