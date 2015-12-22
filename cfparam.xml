@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>cfparam</name>
+<help></help>
+<starttext><![CDATA[<cfparam name="$${Name:}" default="">]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
