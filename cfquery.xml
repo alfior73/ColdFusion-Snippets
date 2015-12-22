@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>cfquery</name>
+<help></help>
+<starttext><![CDATA[<cfquery name="$${Query Name:}" datasource="#$${Datasource:edit_snippet_to_change_datasource1|edit_snippet_to_change_datasource2}#">
+	]]></starttext>
+<endtext><![CDATA[
+</cfquery>]]></endtext>
+</snippet>
