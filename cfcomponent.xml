@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>cfcomponent</name>
+<help></help>
+<starttext><![CDATA[<cfcomponent name="$${Component Name:}" displayname="$${Component Name:}" hint="$${Component Hint:}" output="false">
+	<!--- Empty Constructor --->
+]]></starttext>
+<endtext><![CDATA[
+
+</cfcomponent>]]></endtext>
+</snippet>
