@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>GETTER - SETTER</name>
+<help></help>
+<starttext><![CDATA[<!---
+  * FUNCTION: Set$${Variable Name:}
+  * insert description here
+  * @return $${Return Type:any|array|binary|boolean|date|guid|numeric|query|string|struct|uuid|xml|void}		:	return desc
+--->
+<cffunction name="Set$${Variable Name:}" access="public" returntype="$${Return Type:any|array|binary|boolean|date|guid|numeric|query|string|struct|uuid|xml|void}" output="false" displayname="Set$${Variable Name:}" hint="Sets the variable $${Variable Name:}">
+
+</cffunction>
+
+<!---
+  * FUNCTION: Get$${Variable Name:}
+  * insert description here
+  * @return $${Return Type:any|array|binary|boolean|date|guid|numeric|query|string|struct|uuid|xml|void}		:	return desc
+--->
+<cffunction name="Get$${Variable Name:}" access="public" returntype="$${Return Type:any|array|binary|boolean|date|guid|numeric|query|string|struct|uuid|xml|void}" output="false" displayname="Get$${Variable Name:}" hint="Gets the variable $${Variable Name:}.">
+	
+</cffunction>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
