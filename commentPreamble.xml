@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="">
+<name>Comment Preamble</name>
+<help>Comment Preamble</help>
+<starttext><![CDATA[<cfsetting enablecfoutputonly="true">
+<!--- ===========================================================================
+// CLASS/COMPONENT:
+// com.
+//
+// DESCRIPTION:
+// 
+//
+// AUTHOR:
+// Alfio M. Raymond (AMR), alfior73@yahoo.com
+//
+// COPYRIGHT:
+// Copyright (c) 2015. All Rights Reserved.
+//
+// REVISION HISTORY:
+//
+// ******************************************************************************
+// User: AMR  Date: $${DATE}
+// Initial Creation
+// ******************************************************************************
+=========================================================================== --->
+<cfsetting enablecfoutputonly="false">]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
