@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>CreateObject</name>
+<help></help>
+<starttext><![CDATA[<cfset variables.$${Instance Name:} = CreateObject("component", "com.]]></starttext>
+<endtext><![CDATA[")>]]></endtext>
+</snippet>
