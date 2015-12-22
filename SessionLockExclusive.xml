@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet>
+<name>Session Lock Exclusive</name>
+<help></help>
+<starttext><![CDATA[<cflock scope="session" type="exclusive" throwontimeout="yes" timeout="7">
+
+</cflock>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
