@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="utf-8" ?> 
+- <snippet filetemplate="false" extension="">
+  <name>dumpAbort</name> 
+  <help>Dump variable and abort processing</help> 
+- <starttext>
+- <![CDATA[ 
+<cfdump var= "#$${Scope:Form|URL|SESSION|Application}#" />
+<cfabort />
+
+  ]]> 
+  </starttext>
+- <endtext>
+- <![CDATA[ 
+  ]]> 
+  </endtext>
+  </snippet>
