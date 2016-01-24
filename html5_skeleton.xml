@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet filetemplate="false" extension="cfm">
+<name>HTML Skeleton</name>
+<help>HTML Skeleton</help>
+<starttext><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Untitled Document</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+</body>
+</html>]]></starttext>
+<endtext><![CDATA[]]></endtext>
+</snippet>
